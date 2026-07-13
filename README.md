@@ -70,3 +70,6 @@ Key dashboard insights:
 
 ## Conclusion
 The analysis reveals clear patterns in customer tipping behavior. Tips are strongly influenced by spending level and group size, while timing factors such as dinner hours and weekends significantly increase tip amounts. The findings highlight that weekends and dinner periods are the most profitable times, with higher customer activity and spending.
+
+## Note
+This project is based on structured academic data provided as part of coursework and is intended for learning and portfolio demonstration purposes.
